@@ -1,0 +1,16 @@
+--Run the following commands in the project directory
+>>	python -m venv venv
+>>	venv\Scripts\activate
+>>	pip install flask
+>>	pip install flask-restful flask-SQLAlchemy flask_cors openai 
+>>	pip install peft trl datasets accelerate transformers torch huggingface_hub python-dotenv openai
+>> 
+>> 	python.exe -m pip install --upgrade pip   
+>>	& './python.exe' '../app.py'                  #include path to your python.exe and app.py 
+
+
+--React app
+>>npm create vite@latest frontendd -- --template react                                             
+>> cd frontend                                                                                                                       
+>> npm install axios openai
+>>npm run dev
