@@ -1,5 +1,5 @@
-# React + Vite
-
+# React + Flask
+This project uses Flask + React to manage your tasks and reminders using APIs
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
